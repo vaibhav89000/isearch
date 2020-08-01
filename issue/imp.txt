@@ -1,0 +1,38 @@
+//*[@id="countrytags"]
+//*[@id="searchinput"]
+//*[@id="city"]
+//span[@class="keBIzf VqFMTc p8AiDd"]
+
+
+ads
+//div[@class="IC84Ic Vkznre"]
+ads websitename
+//div[@class="IC84Ic Vkznre"]/span[2]
+
+
+
+ads top
+//div[@id="tvcap"]
+//div[@id="tvcap"]/div/div/ol/li
+-------------------------------------------------------
+//div[@id="tvcap"]/div/div/ol/li/div[1]/div/div/div[1]/w-visurl/div/span[2]
+//div[@id="tvcap"]/div/div/ol/li/div[1]/div/cite
+------------------------------------------------------------
+ads bottom
+//div[@id="bottomads"]
+
+
+
+//*[@id="rso"]/div[1]/div/div[2]/div/div[4]/div[3]/div/div/a/div/span
+
+
+inner ads
+(//span[@class="VqFMTc p8AiDd"])[1]
+
+
+
+
+
+//*[@id="akp_tsuid5"]/div/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/div/div[1]/div/div[2]/div/div[1]/a
+//*[@id="akp_tsuid5"]/div/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/div/div[1]/div/div[2]/div/div[1]/a
+//*[@id="akp_tsuid5"]/div/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/div/div[1]/div/div[3]/div[1]/a

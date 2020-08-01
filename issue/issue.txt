@@ -1,0 +1,28 @@
+https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3DDentist%2520Madison%26glp%3D1%26adtest%3Don%26safe%3Dimages%26safe%3Dhigh&q=EgQDF4OvGJ7nhPkFIhkA8aeDS5YGw0xLF5dvlUX60F36a7vTbfroMgFy
+https://www.google.com/search?q=Dentist%2520Madison%26glp%3D1%26adtest%3Don%26safe%3Dimages%26safe%3Dhigh&q=EgQDF4OvGJ7nhPkFIhkA8aeDS5YGw0xLF5dvlUX60F36a7vTbfroMgFy
+
+
+<div class="recaptcha-checkbox-border" role="presentation"></div>
+
+
+
+https://www.scrapehero.com/how-to-prevent-getting-blacklisted-while-scraping/
+https://www.scrapehero.com/how-to-solve-simple-captchas-using-python-tesseract/
+https://www.scrapehero.com/how-to-rotate-proxies-and-ip-addresses-using-python-3/
+https://blog.scrapinghub.com/2016/08/25/how-to-crawl-the-web-politely-with-scrapy
+
+Request(url, meta={'dont_merge_cookies': True})
+
+
+
+
+
+
+
+
+
+
+
+https://www.google.com/search?q=Dentist%20Madison&glp=1&adtest=on&safe=images&safe=high
+
+https://www.google.com/search?q=Dentist+Madison&rlz=1C1GIGM_enIN863IN863&oq=Dentist+Madison&aqs=chrome..69i57j0l7.886j0j7&sourceid=chrome&ie=UTF-8
